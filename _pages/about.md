@@ -16,7 +16,7 @@ You can find a [CV here.](http://GMignemi.github.io/files/CV_Giuseppe_Mignemi.pd
 Research interests
 ======
 My main research interests are:
-s
+
 - Bayesian hierarchical parametric and nonparametric models
 - Mixture Models 
 - Item Response Models 

@@ -31,13 +31,13 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/stat?searchtype=author&query=Mignemi%2C+G"
+  googlescholar    : "https://scholar.google.com/citations?user=yvfdM3cAAAAJ&hl=it"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1624-2584"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Giuseppe-Mignemi"
   scopus           : # URL
 
   # Repositories and software development

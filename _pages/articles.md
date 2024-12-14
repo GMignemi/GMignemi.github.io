@@ -16,7 +16,9 @@ In preparation
 - Mignemi, G., Paganin, S.
    Bayesian Semiparametric Many-Facet Rasch model.
    
-   
+ - Mignemi, Panzeri, A., Spoto, A.
+   Bayesian Nonparametric Explorative Analysis in Psychological Sciences.
+     
 Under review
 ======
 - Mignemi, G., Manolopoulou, I. [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework.](https://doi.org/10.48550/arXiv.2410.21498)

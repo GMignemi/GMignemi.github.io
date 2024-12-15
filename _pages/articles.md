@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 In preparation
 ======
-- Lijoi, A., Mignemi, G., Prunster, I. 
+- Lijoi, A., Mignemi, G., Pruenster, I. 
    Bayesian Nonparametric Estimation of Species Richness.
    
 - Mignemi, G., Paganin, S.

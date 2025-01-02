@@ -17,7 +17,7 @@ In preparation
    Bayesian Semiparametric Many-Facet Rasch model.
    
  - Mignemi, Panzeri, A., Spoto, A.
-   Bayesian Nonparametric Explorative Analysis in Psychological Sciences.
+   Bayesian Nonparametric Exploratory Analysis in Psychological Sciences.
      
 Under review
 ======
@@ -41,6 +41,8 @@ Published
 
 Collaborations in Social Sciences
 ======
+- Riccardi, A., Barbadoro, F., Margoni, M., Mignemi, G., Pucci, V., Mondini, S., ... & Gallo, P. (2024). Neuropsychological Awareness in Pediatrics (NAP): proposal of a new cognitive self-report questionnaire for pediatric Multiple Sclerosis patients. Multiple Sclerosis and Related Disorders, 106251.
+
 - Iannattone, S., Mignemi, G., Pivetta, E., Gatta, M., Sica, C., Cardi, V., Canale, N., Spoto, A., Bottesi, G. (2024). Are anxiety, depression, and stress distinguishable in Italian adolescents? an examination through the Depression Anxiety Stress Scales-21. PloS one, 19(2), e0299229.
 
 - Panzeri, A., Mignemi, G., Bruno, G., Granziol, U., Scalavicci, C., Bertamini, M., Bennett, K. M., Spoto, A., Vidotto, G. (2023). The role of the COVID-19 impersonal threat strengthening the associations of right-wing attitudes, nationalism and anti-immigrant sentiments. Current Psychology, 1, 3. 

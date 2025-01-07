@@ -14,7 +14,7 @@ In preparation
    Bayesian Nonparametric Estimation of Species Richness.
    
 - Mignemi, G., Paganin, S.
-   Bayesian Semiparametric Many-Facet Rasch model.
+   Bayesian Semiparametric Generalized Many-Facet Rasch model with Anchoring Rater Bias.
    
  - Mignemi, Panzeri, A., Spoto, A.
    Bayesian Nonparametric Exploratory Analysis in Psychological Sciences.

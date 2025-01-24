@@ -17,8 +17,8 @@ Research interests
 ======
 My main research interests are:
 
-- Bayesian hierarchical parametric and nonparametric models
-- Mixture Models 
+- Bayesian hierarchical models
+- Bayesian nonparametrics
 - Item Response Models 
 - Inter-rater reliability analysis
 

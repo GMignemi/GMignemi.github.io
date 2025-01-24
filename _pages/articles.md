@@ -11,12 +11,12 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 In preparation
 ======
 - Lijoi, A., Mignemi, G., Pruenster, I. 
-   Bayesian Nonparametric Estimation of Species Richness.
+   Estimation of Species Richness via Gibbs-type priors.
    
 - Mignemi, G., Paganin, S.
    Bayesian Semiparametric Generalized Many-Facet Rasch model with Anchoring Rater Bias.
    
- - Mignemi, Panzeri, A., Spoto, A.
+ - Mignemi, Panzeri, A., Bruno, G., Spoto, A.
    Bayesian Nonparametric Exploratory Analysis in Psychological Sciences.
      
 Under review

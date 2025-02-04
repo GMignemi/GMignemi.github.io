@@ -13,21 +13,25 @@ I earned my PhD in Psychometrics in 2024 from the Department of General Psycholo
 
 You can find a [CV here.](http://GMignemi.github.io/files/CV_Giuseppe_Mignemi.pdf)
 
+
 Research interests
 ======
 My main research interests are:
 
 - Bayesian hierarchical models
 - Bayesian nonparametrics
-- Item Response Models 
+- Latent variables models 
 - Inter-rater reliability analysis
+
+
+
 
 Upcoming presentations
 ======
-Bayesian Nonarametric Estimation of Species Richness.\\
+Bayesian Nonarametric Estimation of Species Richness (joint work with Antonio Lijoi and Igor Pruenster).\\
 [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/) at  the Department of Biostatistics and the Department of Statistics & Data Science at UCLA in Los Angeles, United States, on June 23-27th, 2025. 
 
-Flexible Models for Multiple Raters Data via Nonparametric Priors\\
+Flexible Models for Multiple Raters Data via Bayesian Nonparametric Priors (joint work with Ioanna Manolopoulou)\\
 [15-th Scientific Meeting Classification and Data Analysis Group](https://cladag2025.unina.it/) at the Federico II University, Napoli, Italy, 8-10 September 2025
 
 

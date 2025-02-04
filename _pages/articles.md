@@ -28,9 +28,7 @@ Under review
 
 Published
 ======
-- Mignemi, G., Chen, Y., Moustaki, I. 
-   Statistical Analysis of Peer Grading: A Latent Variable Approach. In: Proceedings from
-52st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2024, Bari, Italy (in press).
+- Mignemi, G., Chen, Y., Moustaki, I. (2025). Statistical Analysis of Peer Grading: A Latent Variable Approach. In: Proceedings from 52st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2024, Bari, Italy.
     
 - Mignemi, G., Calcagni, A., Spoto, A., Manolopoulou, I. (2024). Mixture polarization in inter-rater agreement analysis: a Bayesian nonparametric index. Statistical Methods and Applications, 33, 325-355
  
@@ -41,6 +39,8 @@ Published
 
 Collaborations in Social Sciences
 ======
+- Vicovaro, M., Mignemi, G., Nucci, M., Bolognani, L., Iannattone, S., Bruno, G., & Spoto, A. (2025). A new Bayesian method for the estimation of emergency nurses' thresholds and agreement in the context of telephone triage. Frontiers in Psychology, 16, 1477844.
+
 - Riccardi, A., Barbadoro, F., Margoni, M., Mignemi, G., Pucci, V., Mondini, S., ... & Gallo, P. (2024). Neuropsychological Awareness in Pediatrics (NAP): proposal of a new cognitive self-report questionnaire for pediatric Multiple Sclerosis patients. Multiple Sclerosis and Related Disorders, 106251.
 
 - Iannattone, S., Mignemi, G., Pivetta, E., Gatta, M., Sica, C., Cardi, V., Canale, N., Spoto, A., Bottesi, G. (2024). Are anxiety, depression, and stress distinguishable in Italian adolescents? an examination through the Depression Anxiety Stress Scales-21. PloS one, 19(2), e0299229.
@@ -53,5 +53,7 @@ structural equation model. Journal of Behavioral Medicine,46, 201-211.
 - Panzeri, A., Bettinardi, O., Bottesi, G., Bertolotti, G., Brambatti, G., Monfredo, M., Mignemi, G., Bruno, G., Vidotto, G., Spoto, A., Frattola, P., Chiesa, S. (2022) Assessment of perceived support in the context of emergency: Development and validation of the psycho-social support scale. Current Psychology.
 
 - Shevlin, M., Butter,..., Mignemi, G., Spoto, V., Vidotto, G., Bentall, R. P. (2022). Measurement invariance of the Patient Health Questionnaire (PHQ-9) and Generalized Anxiety Disorder scale (GAD-7) across four European countries during the COVID-19 pandemic. BMC psychiatry, 22(1), 154. 
+
+- Maeran, R & Mignemi, G. (2022). Psicologia del turismo, nuove forme interattive di consumo. Bologna: Patron Editore.
 
 - Maeran, R., Mignemi, G. (2021). The role of consumer-brand engagement in tourism consumption: from user-generated content to my generated content.Testing, Psychometrics, Methodology in Applied Psychology, Vol. 28, pp. 505-520.

@@ -28,7 +28,7 @@ My main research interests are:
 
 Upcoming presentations
 ======
-Bayesian Nonarametric Estimation of Species Richness (joint work with Antonio Lijoi and Igor Pruenster).\\
+Bayesian Nonparametric Estimation of Species Richness via Gibbs-type Priors (joint work with Antonio Lijoi and Igor Pruenster).\\
 [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/) at  the Department of Biostatistics and the Department of Statistics & Data Science at UCLA in Los Angeles, United States, on June 23-27th, 2025. 
 
 Flexible Models for Multiple Raters Data via Bayesian Nonparametric Priors (joint work with Ioanna Manolopoulou)\\

@@ -8,16 +8,20 @@ redirect_from:
 ---
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yvfdM3cAAAAJ&hl=it).
 
-In preparation
+Working papers
 ======
 - Lijoi, A., Mignemi, G., Pruenster, I. 
    Estimation of Species Richness via Gibbs-type priors.
    
 - Mignemi, G., Paganin, S.
    Bayesian Semiparametric Generalized Many-Facet Rasch model with Anchoring Rater Bias.
+
+ - Mignemi,G. 
+   Flexible Rating Models for Partial Exchangeable Subjects. 
    
  - Mignemi, Panzeri, A., Bruno, G., Spoto, A.
    Bayesian Nonparametric Exploratory Analysis in Psychological Sciences.
+   
      
 Under review
 ======

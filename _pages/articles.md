@@ -11,27 +11,23 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Working papers
 ======
 - Lijoi, A., Mignemi, G., Pruenster, I. 
-   Estimation of Species Richness via Gibbs-type priors.
+   Estimation of Species Richness via penalized Gibbs-type priors.
    
 - Mignemi, G., Paganin, S.
-   Bayesian Semiparametric Generalized Many-Facet Rasch model with Anchoring Rater Bias.
+   Extended Many-Facet Rasch Models.
 
- - Mignemi,G. 
-   Flexible Rating Models for Partial Exchangeable Subjects. 
-   
  - Mignemi, Panzeri, A., Bruno, G., Spoto, A.
-   Bayesian Nonparametric Exploratory Analysis in Psychological Sciences.
+   Infinite Dimensional Psychology: a Gentle Introduction to Discrete Nonparametric Priors
    
      
 Under review
 ======
 - Mignemi, G., Manolopoulou, I. [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework.](https://doi.org/10.48550/arXiv.2410.21498)
 
-- Mignemi, G., Chen, Y., Moustaki, I. [Unfolding the Network of Peer Grades: A Latent Variable Approach.](https://doi.org/10.48550/arXiv.2410.14296)
-
-
 Published
 ======
+- Mignemi, G., Chen, Y., Moustaki, I. [Unfolding the Network of Peer Grades: A Latent Variable Approach.](https://doi.org/10.48550/arXiv.2410.14296). Psychometrika [Forthcoming]
+
 - Mignemi, G., Chen, Y., Moustaki, I. (2025). Statistical Analysis of Peer Grading: A Latent Variable Approach. In: Proceedings from 52st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2024, Bari, Italy.
     
 - Mignemi, G., Calcagni, A., Spoto, A., Manolopoulou, I. (2024). Mixture polarization in inter-rater agreement analysis: a Bayesian nonparametric index. Statistical Methods and Applications, 33, 325-355

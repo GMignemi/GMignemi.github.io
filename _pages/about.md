@@ -29,9 +29,16 @@ My main research interests are:
 Upcoming presentations
 ======
 Bayesian Nonparametric Estimation of Species Richness via Gibbs-type Priors (joint work with Antonio Lijoi and Igor Pruenster).\\
-[14th International Conference on Bayesian Nonparametrics](https://bnp14.org/) at  the Department of Biostatistics and the Department of Statistics & Data Science at UCLA in Los Angeles, United States, on June 23-27th, 2025. 
+[14th International Conference on Bayesian Nonparametrics](https://bnp14.org/) at the Department of Biostatistics and the Department of Statistics & Data Science at UCLA in Los Angeles, United States, on June 23-27th, 2025. 
 
-Flexible Models for Multiple Raters Data via Bayesian Nonparametric Priors (joint work with Ioanna Manolopoulou)\\
+Infinite Dimensional Psychology: Exploratory Bayesian Nonparametric Analysis (joint work with Panzeri, A., Bruno, G., Spoto, A.).\\
+[11-th Conference – European Congress of Methodology](https://wp.ull.es/eam2025/) at the University of La Laguna in San Cristobal de La Laguna, Tenerife, Spain, 23-25 July 2025.
+
+Infinite Dimensional Psychology: Nonparametric Methods in Psychological Sciences (joint work with Panzeri, A., Bruno, G., Spoto, A.).\\
+[European Mathematical Psychology Group meeting](https://psychometrics-laboratory.psy.unipd.it/EMPG2025/) at the University of Padova, Padova, Italy, 03-05 September 2025.
+
+Flexible Models for Multiple Raters Data via Bayesian Nonparametric Priors (joint work with Ioanna Manolopoulou).\\
 [15-th Scientific Meeting Classification and Data Analysis Group](https://cladag2025.unina.it/) at the Federico II University, Napoli, Italy, 8-10 September 2025.
+
 
 

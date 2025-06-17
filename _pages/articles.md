@@ -26,7 +26,7 @@ Under review
 
 Published
 ======
-- Mignemi, G., Chen, Y., Moustaki, I. [Unfolding the Network of Peer Grades: A Latent Variable Approach.](https://doi.org/10.48550/arXiv.2410.14296). Psychometrika [Forthcoming]
+- Mignemi, G., Chen, Y., Moustaki, I. [Unfolding the Network of Peer Grades: A Latent Variable Approach.](https://doi.org/10.1017/psy.2025.10021). Psychometrika [Forthcoming]
 
 - Mignemi, G., Chen, Y., Moustaki, I. (2025). Statistical Analysis of Peer Grading: A Latent Variable Approach. In: Proceedings from 52st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2024, Bari, Italy.
     

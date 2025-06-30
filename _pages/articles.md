@@ -18,14 +18,12 @@ Working papers
 
  - Mignemi, Panzeri, A., Bruno, G., Spoto, A.
    Infinite Dimensional Psychology: a Gentle Introduction to Discrete Nonparametric Priors
-   
-     
-Under review
-======
-- Mignemi, G., Manolopoulou, I. [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework.](https://doi.org/10.48550/arXiv.2410.21498)
+
 
 Published
 ======
+- Mignemi, G., Manolopoulou, I. [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework.](https://doi.org/10.48550/arXiv.2410.21498). Psychometrika [Forthcoming]
+
 - Mignemi, G., Chen, Y., Moustaki, I. [Unfolding the Network of Peer Grades: A Latent Variable Approach.](https://doi.org/10.1017/psy.2025.10021). Psychometrika [Forthcoming]
 
 - Mignemi, G., Chen, Y., Moustaki, I. (2025). Statistical Analysis of Peer Grading: A Latent Variable Approach. In: Proceedings from 52st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2024, Bari, Italy.

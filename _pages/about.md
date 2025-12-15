@@ -6,8 +6,8 @@ redirect_from:
 - /about/
 - /about.html
 ---
-
-I am a postdoctoral fellow at the [Institute of Computer Science](https://www.cs.cas.cz/comps/team.html) of the Czech Academy of Science, under the supervision of [Patricia Martinkova](https://www.cs.cas.cz/martinkova/). I was previously a postdoctoral fellow at the Bocconi Institute for Data Science and Analytics [BIDSA](https://bidsa.unibocconi.eu/people/faculty) under the joint supervision of [Antonio Lijoi](https://didattica.unibocconi.it/mypage/index.php?IdUte=189615&amp%3Bcognome=LIJOI&amp%3Bnome=ANTONIO&amp%3BurlBackMy=) and [Igor Pruenster](https://mypage.unibocconi.eu/igorpruenster/).  
+I am Assistant Professor of Psychometrics and Quantitative Psychology at [UKE](https://uke.it/en).
+Previously I was research fellow at the [Institute of Computer Science](https://www.cs.cas.cz/comps/team.html) of the Czech Academy of Science, under the supervision of [Patricia Martinkova](https://www.cs.cas.cz/martinkova/) and postdoctoral fellow at the Bocconi Institute for Data Science and Analytics [BIDSA](https://bidsa.unibocconi.eu/people/faculty) under the joint supervision of [Antonio Lijoi](https://didattica.unibocconi.it/mypage/index.php?IdUte=189615&amp%3Bcognome=LIJOI&amp%3Bnome=ANTONIO&amp%3BurlBackMy=) and [Igor Pruenster](https://mypage.unibocconi.eu/igorpruenster/).  
 
 I earned my PhD in Psychometrics in 2024 from the Department of General Psychology at the University of Padova under the supervision of [Andrea Spoto](https://dpg.unipd.it/category/ruoli/personale-docente?key=6DB5058FD70BCB294F3B6A43724D4A02) and [Antonio Calcagni](https://antonio-calcagni.eu/). I spent the last year of my PhD visiting the Statistics Departments of UCL and LSE collaborating with [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/), [Yunxiao Chen](https://www.lse.ac.uk/statistics/people/yunxiao-chen) and [Irini Moustaki](https://irmoustaki.github.io/).
 
@@ -28,6 +28,9 @@ My main research interests are:
 
 Upcoming presentations
 ======
+Learning the unseen: Bayesian estimation of species richness with penalized Gibbs-type priors (joint work with Antonio Lijoi and Igor Pruenster).\\
+Invited Session “Bayesian Nonparametric Methods in Ecology” of [The 2026 ISBA World Meeting](https://isba2026.github.io/) at Nagoya, Japan, on June 28th - July 3rd, 2026.
+
 Bayesian Nonparametric Estimation of Species Richness via Gibbs-type Priors (joint work with Antonio Lijoi and Igor Pruenster).\\
 [14th International Conference on Bayesian Nonparametrics](https://bnp14.org/) at the Department of Biostatistics and the Department of Statistics & Data Science at UCLA in Los Angeles, United States, on June 23-27th, 2025. 
 

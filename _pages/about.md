@@ -6,7 +6,7 @@ redirect_from:
 - /about/
 - /about.html
 ---
-I am Assistant Professor of Psychometrics and Quantitative Psychology at the Kore University.
+I am Assistant Professor of Psychometrics at the Department of Social Sciences of [Kore University](https://uke.it/en).
 
 I was previously research fellow at the [Institute of Computer Science](https://www.cs.cas.cz/comps/team.html) of the Czech Academy of Science, under the supervision of [Patricia Martinkova](https://www.cs.cas.cz/martinkova/) and postdoctoral fellow at the Bocconi Institute for Data Science and Analytics [BIDSA](https://bidsa.unibocconi.eu/people/faculty) under the joint supervision of [Antonio Lijoi](https://didattica.unibocconi.it/mypage/index.php?IdUte=189615&amp%3Bcognome=LIJOI&amp%3Bnome=ANTONIO&amp%3BurlBackMy=) and [Igor Pruenster](https://mypage.unibocconi.eu/igorpruenster/).  
 

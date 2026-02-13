@@ -21,7 +21,7 @@ repository               : "GMignemi/GMignemi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Giuseppe Mignemi"
   pronouns         : # example: "he/his"  
   bio              : "Psychometrics and Applied Statistics"

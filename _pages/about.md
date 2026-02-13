@@ -26,7 +26,7 @@ My main research interests are:
 
 News!
 ======
-I am pleased to have been awarded [Marie Skłodowska-Curie Actions - Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/) for the project: \\
+I am pleased to have been awarded [Marie Skłodowska-Curie Actions - Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/) for the project:\\
 BABEL - BAyesian Biclustering models for hEterogeneous Learning.
 
 

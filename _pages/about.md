@@ -12,7 +12,7 @@ I was previously research fellow at the [Institute of Computer Science](https://
 
 I earned my PhD in Psychometrics in 2024 from the Department of General Psychology at the University of Padova under the supervision of [Andrea Spoto](https://dpg.unipd.it/category/ruoli/personale-docente?key=6DB5058FD70BCB294F3B6A43724D4A02) and [Antonio Calcagni](https://antonio-calcagni.eu/). I spent the last year of my PhD visiting the Statistics Departments of UCL and LSE collaborating with [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/), [Yunxiao Chen](https://www.lse.ac.uk/statistics/people/yunxiao-chen) and [Irini Moustaki](https://irmoustaki.github.io/).
 
-You can find a [CV here.](http://GMignemi.github.io/files/CV_Giuseppe_Mignemi.pdf)
+You can find a [CV here.](http://GMignemi.github.io/files/CV_Giuseppe_Mignemi_26.pdf)
 
 
 Research interests

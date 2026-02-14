@@ -32,7 +32,7 @@ BABEL - BAyesian Biclustering models for hEterogeneous Learning.
 
 Upcoming presentations
 ======
-Dynamic Extended Generalized Many-Facet Rasch Model (joint work with Patr´ıcia Martinkov´a, and Sally Paganin)\\
+Dynamic Extended Generalized Many-Facet Rasch Model (joint work with Patrıcia Martinkova and Sally Paganin).\\
 15th edition of the [International Conference on Multilevel Analysis](https://multilevel.fss.uu.nl/) at Utrecht, Netherlands, on 14-15 April, 2026.
 
 Learning the unseen: Bayesian estimation of species richness with penalized Gibbs-type priors (joint work with Antonio Lijoi and Igor Pruenster).\\

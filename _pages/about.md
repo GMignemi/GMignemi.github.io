@@ -19,10 +19,11 @@ Research interests
 ======
 My main research interests are:
 
-- Bayesian hierarchical models
-- Bayesian nonparametrics
-- Latent variables models 
-- Inter-rater reliability analysis
+- Discrete Latent Structure in Educational Data
+- Bayesian Hierarchical Models
+- Bayesian Nonparametrics
+- Latent Variable Models 
+- Inter-Rater Reliability Analysis
 
 News!
 ======

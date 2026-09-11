@@ -8,31 +8,46 @@ redirect_from:
 ---
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=yvfdM3cAAAAJ&hl=it).
 
-Working papers
+In preparation
 ======
-- Lijoi, A., Mignemi, G., Pruenster, I. 
-   Estimation of Species Richness via penalized Gibbs-type priors.
-   
-- Mignemi, G., Paganin, S.
-   Extended Many-Facet Rasch Models.
+- Mignemi, G., Martinkova, P.
+   Exploring Multi-way Measurement Invariance via Discrete Nonparametric Priors in the Hybrid age of AI.
 
- - Mignemi, Panzeri, A., Bruno, G., Spoto, A.
-   Infinite Dimensional Psychology: a Gentle Introduction to Discrete Nonparametric Priors
+- Mignemi, G., Tancini, D., Bartolucci, F.
+   Generalized Infinite Markov Models for Heterogeneous Latent Transition Analysis.
+
+- Mignemi, G., Chen, Y., Calcagni, A., Moustaki, I.
+   Robust CFA in the Presence of Unknown Correlated Measurement Errors.
+
+- Mignemi, G.
+   Infinite Dimensional Measurement: Introduction to Discrete Nonparametric Priors for Psychometric Analysis.
+
+- Lijoi, A., Mignemi, G., Pruenster, I.
+   Bayesian estimation of species richness with penalized Gibbs-type priors.
+
+- Mignemi, G., Martinkova, P., Paganin, S.
+   Dynamic Extended Generalized Many-Facet Rasch Model.
+
+
+Under review
+======
+- Mignemi, G., Bottaro, R., Faraci, P.
+   Do You Shrink or Penalize? Comparison between Penalized- and Shrinkage-Prior-Structural Equation Models.
 
 
 Published
 ======
-- Mignemi, G., Manolopoulou, I. [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework](https://doi.org/10.48550/arXiv.2410.21498). Psychometrika [Forthcoming]
+- Mignemi, G., Manolopoulou, I. [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework](https://resolve.cambridge.org/core/journals/psychometrika/article/bayesian-nonparametric-models-for-multiple-raters-a-general-statistical-framework/65B9A03A25BC41B5F629E3706A27F9C7). Psychometrika, Published online, 1-36.
 
-- Mignemi, G., Chen, Y., Moustaki, I. [Unfolding the Network of Peer Grades: A Latent Variable Approach](https://doi.org/10.1017/psy.2025.10021). Psychometrika [Forthcoming]
+- Mignemi, G., Chen, Y., Moustaki, I. (2025). [Unfolding the Network of Peer Grades: A Latent Variable Approach](https://doi.org/10.1017/psy.2025.10021). Psychometrika, 90(3), 1153-1174.
 
 - Mignemi, G., Chen, Y., Moustaki, I. (2025). Statistical Analysis of Peer Grading: A Latent Variable Approach. In: Proceedings from 52st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2024, Bari, Italy.
     
-- Mignemi, G., Calcagni, A., Spoto, A., Manolopoulou, I. (2024). Mixture polarization in inter-rater agreement analysis: a Bayesian nonparametric index. Statistical Methods and Applications, 33, 325-355
+- Mignemi, G., Calcagni, A., Spoto, A., Manolopoulou, I. (2024). [Mixture polarization in inter-rater agreement analysis: a Bayesian nonparametric index](https://link.springer.com/article/10.1007/s10260-023-00741-x). Statistical Methods and Applications, 33, 325-355.
  
-- Mignemi, G., Manolopoulou, I., Calcagni, A. Groups heterogeneity in classification tasks: a Bayesian nonparametric approach. In: Proceedings from 14th Scientifc Meeting of the Classification and Data Analysis Group (Cladag), Salerno, September 11-13, 2023. ISBN: 9788891935632
+- Mignemi, G., Manolopoulou, I., Calcagni, A. Groups heterogeneity in classification tasks: a Bayesian nonparametric approach. In: Proceedings from 14th Scientific Meeting of the Classification and Data Analysis Group (Cladag), Salerno, September 11-13, 2023. ISBN: 9788891935632.
 
-- Mignemi, G., Manolopoulou, I., Spoto, A., Calcagni, A. Latent thresholds model in classification tasks. In: Proceedings from 51st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2022, Caserta, Italy. ISBN 9788891932310  
+- Mignemi, G., Manolopoulou, I., Spoto, A., Calcagni, A. Latent thresholds model in classification tasks. In: Proceedings from 51st scientific meeting of Italian Statistical Society (SIS), 22-24 June 2022, Caserta, Italy. ISBN 9788891932310.
 
 
 Collaborations in Social Sciences
@@ -46,12 +61,12 @@ Collaborations in Social Sciences
 - Panzeri, A., Mignemi, G., Bruno, G., Granziol, U., Scalavicci, C., Bertamini, M., Bennett, K. M., Spoto, A., Vidotto, G. (2023). The role of the COVID-19 impersonal threat strengthening the associations of right-wing attitudes, nationalism and anti-immigrant sentiments. Current Psychology, 1, 3. 
  
 - Mignemi, G., Panzeri, A., Granziol, U. et al. (2022). The mediating role of scientifical-medical satisfaction between COVID-19 conspiracy beliefs and vaccine confidence: a two-waves 
-structural equation model. Journal of Behavioral Medicine,46, 201-211. 
+structural equation model. Journal of Behavioral Medicine, 46, 201-211. 
 
 - Panzeri, A., Bettinardi, O., Bottesi, G., Bertolotti, G., Brambatti, G., Monfredo, M., Mignemi, G., Bruno, G., Vidotto, G., Spoto, A., Frattola, P., Chiesa, S. (2022) Assessment of perceived support in the context of emergency: Development and validation of the psycho-social support scale. Current Psychology.
 
-- Shevlin, M., Butter,..., Mignemi, G., Spoto, V., Vidotto, G., Bentall, R. P. (2022). Measurement invariance of the Patient Health Questionnaire (PHQ-9) and Generalized Anxiety Disorder scale (GAD-7) across four European countries during the COVID-19 pandemic. BMC psychiatry, 22(1), 154. 
+- Shevlin, M., Butter, S., McBride, O., Murphy, J., Gibson-Miller, J., Hartman, T. K., Levita, L., Mason, L., Martinez, A. P., McKay, R., Stocks, T. VA., Bennett, K. M., Hyland, P., Vallieres, F., Valiente, C., Vazquez, C., Contreras, A., Peinado, V., Trucharte, A., Bertamini, M., Panzeri, A., Bruno, G., Granziol, U., Mignemi, G., Spoto, A., Vidotto, G., Bentall, R. P. (2022). Measurement invariance of the Patient Health Questionnaire (PHQ-9) and Generalized Anxiety Disorder scale (GAD-7) across four European countries during the COVID-19 pandemic. BMC psychiatry, 22(1), 154. 
 
-- Maeran, R & Mignemi, G. (2022). Psicologia del turismo, nuove forme interattive di consumo. Bologna: Patron Editore.
+- Maeran, R. & Mignemi, G. (2022). Psicologia del turismo, nuove forme interattive di consumo. Bologna: Patron Editore.
 
-- Maeran, R., Mignemi, G. (2021). The role of consumer-brand engagement in tourism consumption: from user-generated content to my generated content.Testing, Psychometrics, Methodology in Applied Psychology, Vol. 28, pp. 505-520.
+- Maeran, R., Mignemi, G. (2021). The role of consumer-brand engagement in tourism consumption: from user-generated content to my generated content. Testing, Psychometrics, Methodology in Applied Psychology, Vol. 28, pp. 505-520.

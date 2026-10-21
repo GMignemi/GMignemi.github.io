@@ -27,7 +27,11 @@ My main research interests are:
 
 News!
 ======
-I am pleased to have been awarded [Marie Skłodowska-Curie Actions - Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/) for the project: 
+- I am delighted to have been awarded an **MSCA Fellowships CZ** grant! I will be joining the [COMputational PSychometrics group](https://www.cs.cas.cz/comps/index.html) at the *Institute of Computer Science* of the *Czech Academy of Sciences*. See more [awards and grants](https://www.cs.cas.cz/comps/funding.html).
+
+- New preprint on arXiv, joint work with Sally Paganin and [Patricia Martinkova](https://www.cs.cas.cz/martinkova/): [arXiv:2610.14199](https://doi.org/10.48550/arXiv.2610.14199).
+
+- I am pleased to have been awarded [Marie Skłodowska-Curie Actions - Seal of Excellence](https://marie-sklodowska-curie-actions.ec.europa.eu/) for the project: 
 BABEL - BAyesian Biclustering models for hEterogeneous Learning.
 
 

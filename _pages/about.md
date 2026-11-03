@@ -46,24 +46,24 @@ Collaboration network
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 <script>
 (function () {
-  var points = [
-    { n: 1,  city: "Padova, Italy",              inst: "Home base",                          lat: 45.40, lon:  11.90, hub: true },
-    { n: 2,  city: "Milan, Italy",                inst: "Bocconi University",                 lat: 45.46, lon:   9.19 },
-    { n: 3,  city: "Perugia, Italy",               inst: "University of Perugia",              lat: 43.11, lon:  12.39 },
-    { n: 4,  city: "London, UK",                   inst: "LSE / UCL",                          lat: 51.50, lon:  -0.12 },
-    { n: 5,  city: "Prague, Czech Republic",       inst: "Czech Academy of Sciences",          lat: 50.08, lon:  14.44 },
+   var points = [
+    { n: 1,  city: "Prague, Czech Republic",       inst: "Czech Academy of Sciences (Home base)", lat: 50.08, lon:  14.44, hub: true },
+    { n: 2,  city: "Padova, Italy",                inst: "University of Padova",               lat: 45.40, lon:  11.90 },
+    { n: 3,  city: "Milan, Italy",                 inst: "Bocconi University",                 lat: 45.46, lon:   9.19 },
+    { n: 4,  city: "Perugia, Italy",               inst: "University of Perugia",              lat: 43.11, lon:  12.39 },
+    { n: 5,  city: "London, UK",                   inst: "LSE / UCL",                          lat: 51.50, lon:  -0.12 },
     { n: 6,  city: "Columbus, Ohio, USA",          inst: "Ohio State University",              lat: 39.96, lon: -83.00 },
     { n: 7,  city: "Enna, Sicily",                 inst: "Kore University",                    lat: 37.57, lon:  14.28 },
     { n: 8,  city: "Urbana-Champaign, USA",        inst: "University of Illinois",             lat: 40.11, lon: -88.20 },
     { n: 9,  city: "Seattle, USA",                 inst: "University of Washington",           lat: 47.61, lon: -122.33 },
     { n: 10, city: "Coleraine, Northern Ireland",  inst: "Ulster University",                  lat: 55.13, lon:  -6.67 },
-    { n: 11, city: "Sheffield, UK",                inst: "University of Sheffield",             lat: 53.38, lon:  -1.47 },
-    { n: 12, city: "Manchester, UK",               inst: "University of Manchester",            lat: 53.48, lon:  -2.24 },
-    { n: 13, city: "Egham, UK",                    inst: "Royal Holloway, University of London",lat: 51.43, lon:  -0.56 },
-    { n: 14, city: "Liverpool, UK",                inst: "University of Liverpool",             lat: 53.41, lon:  -2.98 },
+    { n: 11, city: "Sheffield, UK",                inst: "University of Sheffield",            lat: 53.38, lon:  -1.47 },
+    { n: 12, city: "Manchester, UK",               inst: "University of Manchester",           lat: 53.48, lon:  -2.24 },
+    { n: 13, city: "Egham, UK",                    inst: "Royal Holloway, University of London", lat: 51.43, lon: -0.56 },
+    { n: 14, city: "Liverpool, UK",                inst: "University of Liverpool",            lat: 53.41, lon:  -2.98 },
     { n: 15, city: "Maynooth, Ireland",            inst: "Maynooth University",                lat: 53.38, lon:  -6.59 },
-    { n: 16, city: "Dublin, Ireland",              inst: "Trinity College Dublin",              lat: 53.34, lon:  -6.26 },
-    { n: 17, city: "Madrid, Spain",                inst: "Complutense University of Madrid",    lat: 40.42, lon:  -3.70 }
+    { n: 16, city: "Dublin, Ireland",              inst: "Trinity College Dublin",             lat: 53.34, lon:  -6.26 },
+    { n: 17, city: "Madrid, Spain",                inst: "Complutense University of Madrid",   lat: 40.42, lon:  -3.70 }
   ];
 
   var hub = points.filter(function (p) { return p.hub; })[0];

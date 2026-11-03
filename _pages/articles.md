@@ -10,11 +10,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 In preparation
 ======
-- Mignemi, G., Martinkova, P.
+ 
+- Martinkova, P., Mignemi, G. Paganin, S.
    Exploring Multi-way Measurement Invariance via Discrete Nonparametric Priors in the Hybrid age of AI.
-
-- Mignemi, G., Tancini, D., Bartolucci, F.
-   Generalized Infinite Markov Models for Heterogeneous Latent Transition Analysis.
 
 - Mignemi, G., Chen, Y., Calcagni, A., Moustaki, I.
    Robust CFA in the Presence of Unknown Correlated Measurement Errors.
@@ -25,15 +23,15 @@ In preparation
 - Lijoi, A., Mignemi, G., Pruenster, I.
    Bayesian estimation of species richness with penalized Gibbs-type priors.
 
-- Mignemi, G., Martinkova, P., Paganin, S.
-   Dynamic Extended Generalized Many-Facet Rasch Model.
-
 
 Under review
 ======
+ - Mignemi, G., Tancini, D., Bartolucci, F.
+   [Generalized Infinite Markov Models.](https://doi.org/10.48550/arXiv.2610.31337)
+- Mignemi, G., Martinkova, P., Paganin, S.
+   [Dynamic Extended Generalized Many-Facet Rasch Model: A Unified Approach to Rater-Mediated Assessment](https://doi.org/10.48550/arXiv.2610.14199)
 - Mignemi, G., Bottaro, R., Faraci, P.
-   Do You Shrink or Penalize? Comparison between Penalized- and Shrinkage-Prior-Structural Equation Models.
-
+   Flexible Methods for Cross-Loadings Analysis in Bifactor Models: A Continuous Global Comparison Approach.
 
 Published
 ======

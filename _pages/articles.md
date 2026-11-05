@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Articles"
+title: "Research"
 permalink: /articles/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 In preparation
 ======
  
-- Martinkova, P., Mignemi, G. Paganin, S.
+-  Mignemi, G., Martinkova, P., Paganin, S.
    Exploring Multi-way Measurement Invariance via Discrete Nonparametric Priors in the Hybrid age of AI.
 
 - Mignemi, G., Chen, Y., Calcagni, A., Moustaki, I.
